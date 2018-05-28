@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/renderer/pages/onvif.vue" line="296" />
+    <bookmark url="file://$PROJECT_DIR$/src/renderer/components/control.vue" line="531" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c198831c-3741-48f0-b1ea-2cc9e7be3642" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6690">
+              <caret line="223" column="64" selection-start-line="223" selection-start-column="33" selection-end-line="223" selection-end-column="64" />
+              <folding>
+                <marker date="1527276237940" expanded="true" signature="3440:3457" ph="{...}" />
+                <marker date="1527276237940" expanded="true" signature="3537:3557" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="control.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/control.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="423" column="58" selection-start-line="423" selection-start-column="58" selection-end-line="423" selection-end-column="58" />
+              <folding>
+                <element signature="n#transition#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#span#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#transition#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#transition#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#transition#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#transition#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#transition#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#transition#5;n#div#0;n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonalInfoPanel.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/control/PersonalInfoPanel.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2460">
+              <caret line="82" column="1" selection-start-line="76" selection-start-column="7" selection-end-line="82" selection-end-column="1" />
+              <folding>
+                <element signature="n#style#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cubingComLive.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/websocket/cubingComLive.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="73" selection-end-column="15" />
+              <folding>
+                <element signature="e#81#223#0" />
+                <element signature="e#242#574#0" />
+                <element signature="e#595#841#0" />
+                <element signature="e#862#887#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cubingSpider.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-col#1;n#el-row#0;n#el-main#0;n#el-container#0;n#div#0;n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="live.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/live.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1830">
+              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#el-input#0;n#el-col#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-col#1;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-switch#0;n#el-col#2;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-switch#2;n#el-col#2;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gamepad.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/gamepad.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gamepad.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/gamepad/gamepad.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="onvif.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/pages/onvif.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6660">
+              <caret line="286" column="35" selection-start-line="286" selection-start-column="35" selection-end-line="286" selection-end-column="35" />
+              <folding>
+                <element signature="e#7837#7875#0" expanded="true" />
+                <element signature="e#10434#11715#0" />
+                <element signature="e#11811#12109#0" />
+                <element signature="e#12204#12364#0" />
+                <element signature="e#12435#12594#0" />
+                <element signature="e#12690#12850#0" />
+                <element signature="e#12922#13081#0" />
+                <element signature="e#13176#13322#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MD File" />
+        <option value="tsconfig.json" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_listeners</find>
+      <find>trigger</find>
+      <find>_handleEvent</find>
+      <find>_loop</find>
+      <find>options</find>
+      <find>moment</find>
+      <find>request</find>
+      <find>itemname</find>
+      <find>EventString2Chinese</find>
+      <find>$set</find>
+      <find>href</find>
+      <find>that</find>
+      <find>class</find>
+      <find>vueViewModel</find>
+      <find>RecordJson</find>
+      <find>Object</find>
+      <find>info</find>
+      <find>三阶</find>
+      <find>自动</find>
+      <find>itemnum</find>
+      <find>medium</find>
+      <find>result</find>
+      <find>data</find>
+      <find>messageRecent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>result result</replace>
+      <replace>data.result</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/douyu/chat/room.js" />
+        <option value="$PROJECT_DIR$/src/renderer/pages/danmu.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/gamepad/gamepad.js" />
+        <option value="$PROJECT_DIR$/src/renderer/pages/onvif.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/cubingComLive.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/cubingSocket.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/timeResultFormat.js" />
+        <option value="$PROJECT_DIR$/src/renderer/App.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/main.js" />
+        <option value="$PROJECT_DIR$/src/renderer/router/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Competitons/2018WCA丽水学院魔方公开赛/schedule.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/back.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Players/Zhangyuan He .json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/backCubing.vue" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Rankings/tsconfig.json" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Rankings/backupForPrimaryRegionUrlList.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/rankQueue.js" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Rankings/TaskURL.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/backend.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/RecordPanel.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/程序结构.md" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/playerinfo.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/statistics.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/preorder.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/record.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA丽水学院魔方公开赛/schedule.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/PrerankPanel.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/prerank.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/schedule.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/SchedulePanel.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/RankPanel.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/rank.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/preview.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/CurrentComListSelecter.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/CurrentComListSelector.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Players/config/CompetitionList.json" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/Players/2018YESH01.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/competitors.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/PersonalInfoPanel.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/cubingSpider.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/resultLive.vue" />
+        <option value="$PROJECT_DIR$/src/main/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control/curaw.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/websocket/cubingComLive.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/cubingSpider/live.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/control.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.2.1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\test\src\renderer\components\cubingSpider\websocket" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c198831c-3741-48f0-b1ea-2cc9e7be3642" name="Default" comment="" />
+      <created>1522553789597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522553789597</updated>
+      <workItem from="1522553792391" duration="756000" />
+      <workItem from="1522554713896" duration="1651000" />
+      <workItem from="1522556377634" duration="288000" />
+      <workItem from="1522558423094" duration="1036000" />
+      <workItem from="1522744242299" duration="260000" />
+      <workItem from="1522802915015" duration="16000" />
+      <workItem from="1522807557489" duration="55000" />
+      <workItem from="1522829751039" duration="1730000" />
+      <workItem from="1522831495829" duration="2493000" />
+      <workItem from="1522912840548" duration="816000" />
+      <workItem from="1523467616481" duration="692000" />
+      <workItem from="1523506301000" duration="16520000" />
+      <workItem from="1523598739160" duration="674000" />
+      <workItem from="1523602520308" duration="292000" />
+      <workItem from="1523626376320" duration="1163000" />
+      <workItem from="1524673361805" duration="17000" />
+      <workItem from="1525980291286" duration="10619000" />
+      <workItem from="1526048554841" duration="12903000" />
+      <workItem from="1526129725446" duration="16145000" />
+      <workItem from="1526181995242" duration="6735000" />
+      <workItem from="1526388569004" duration="8313000" />
+      <workItem from="1526407979868" duration="1210000" />
+      <workItem from="1526411289425" duration="12221000" />
+      <workItem from="1526423581804" duration="9459000" />
+      <workItem from="1526471061712" duration="10551000" />
+      <workItem from="1526493531132" duration="3139000" />
+      <workItem from="1526497398682" duration="82000" />
+      <workItem from="1526497641627" duration="6167000" />
+      <workItem from="1526538874603" duration="33496000" />
+      <workItem from="1526646121474" duration="806000" />
+      <workItem from="1526653018851" duration="504000" />
+      <workItem from="1526654575702" duration="2216000" />
+      <workItem from="1526659208568" duration="25433000" />
+      <workItem from="1526792380586" duration="895000" />
+      <workItem from="1526839396421" duration="5778000" />
+      <workItem from="1526921590399" duration="26883000" />
+      <workItem from="1527006975941" duration="24670000" />
+      <workItem from="1527083549701" duration="10000" />
+      <workItem from="1527183435188" duration="3907000" />
+      <workItem from="1527187996324" duration="727000" />
+      <workItem from="1527188737813" duration="36197000" />
+      <workItem from="1527251194910" duration="22558000" />
+      <workItem from="1527294511100" duration="1203000" />
+      <workItem from="1527310857110" duration="122000" />
+      <workItem from="1527382297094" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="311435000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Cuber-DEMO-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/程序结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="716">
+            <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/backend.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Rankings/China.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA丽水学院魔方公开赛/schedule.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3872">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA丽水学院魔方公开赛/schedule.json___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA丽水学院魔方公开赛/schedule.json___jb_old___" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/statistics.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA丽水学院魔方公开赛/prerank.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA华科魔方公开赛/prerank.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret column="10505" selection-start-column="10503" selection-end-column="10505" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA华科魔方公开赛/schedule.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="130" selection-start-column="121" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/SchedulePanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/RankPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="n#style#0;n#el-button-group#0;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/schedule.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="67" column="13" selection-start-line="60" selection-start-column="12" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/preview.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="68" lean-forward="true" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/Han Zhao .json" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Competitions/2018WCA丽水学院魔方公开赛/Enroll/enrollinfo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret column="966" selection-end-column="18884" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/config/2018WCA南宁魔方公开赛.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret column="772" lean-forward="true" selection-end-column="11027" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/config/2018WCA南昌中低阶魔方赛.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Tasks/PlayerList/2018WCA华科魔方公开赛.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-end-column="4213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/record.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="118" column="20" selection-start-line="118" selection-start-column="20" selection-end-line="120" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/config/CompetitionList.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-end-column="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/2018YESH01.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="756" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/2007YUNQ01.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/2017YANR02.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-end-column="3438" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/config/2018WCA华科魔方公开赛.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret column="794" lean-forward="true" selection-end-column="19849" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/RecordPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="65" selection-start-line="59" selection-start-column="6" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/Players/2017WANG11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-end-column="2114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/PrerankPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="10" selection-start-line="1" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/CurrentComListSelector.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/rank.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="208" column="8" selection-start-line="208" selection-start-column="8" selection-end-line="208" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/cubingComLive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/prerank.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="60" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/timeResultFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/resultLive.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/cubingSpider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6690">
+          <caret line="223" column="64" selection-start-line="223" selection-start-column="33" selection-end-line="223" selection-end-column="64" />
+          <folding>
+            <marker date="1527276237940" expanded="true" signature="3440:3457" ph="{...}" />
+            <marker date="1527276237940" expanded="true" signature="3537:3557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/curaw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/competitors.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/websocket/cubingSocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/PersonalInfoPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="82" column="1" selection-start-line="76" selection-start-column="7" selection-end-line="82" selection-end-column="1" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control/cubingSocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/websocket/cubingComLive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="73" selection-end-column="15" />
+          <folding>
+            <element signature="e#81#223#0" />
+            <element signature="e#242#574#0" />
+            <element signature="e#595#841#0" />
+            <element signature="e#862#887#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-col#1;n#el-row#0;n#el-main#0;n#el-container#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/cubingSpider/live.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#el-input#0;n#el-col#0;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-col#1;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-switch#0;n#el-col#2;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-switch#2;n#el-col#2;n#el-col#0;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/gamepad.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/gamepad/gamepad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/pages/onvif.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6660">
+          <caret line="286" column="35" selection-start-line="286" selection-start-column="35" selection-end-line="286" selection-end-column="35" />
+          <folding>
+            <element signature="e#7837#7875#0" expanded="true" />
+            <element signature="e#10434#11715#0" />
+            <element signature="e#11811#12109#0" />
+            <element signature="e#12204#12364#0" />
+            <element signature="e#12435#12594#0" />
+            <element signature="e#12690#12850#0" />
+            <element signature="e#12922#13081#0" />
+            <element signature="e#13176#13322#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/control.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="423" column="58" selection-start-line="423" selection-start-column="58" selection-end-line="423" selection-end-column="58" />
+          <folding>
+            <element signature="n#transition#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#transition#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#transition#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#transition#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#transition#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#transition#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#transition#5;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20416124" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
